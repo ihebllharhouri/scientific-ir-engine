@@ -1,0 +1,15 @@
+# Data files
+*.jsonl
+*.tsv
+data/
+
+# Embeddings / models
+*.pkl
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
